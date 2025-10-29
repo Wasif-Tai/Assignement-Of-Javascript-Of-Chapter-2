@@ -28,3 +28,10 @@ alert("My email address is: " + email);
 // Question 7
 var book = "A smarter way to learn JavaScript";
 alert("I am trying to learn from the book " + book);
+
+// Question 8
+console.log("Yah! I can write HTML content through JavaScript");
+
+// Question 9
+var design = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
+alert(design);
